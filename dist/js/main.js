@@ -1,0 +1,1 @@
+console.log("This is file 1"),console.log("This is file 2"),console.log("This is file 3"),console.log("This is file 4"),console.log("This is file 5"),console.log("This is file 2"),console.log("This is File 22222"),alert("This is file 2");
